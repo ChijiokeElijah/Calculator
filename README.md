@@ -1,2 +1,2 @@
 # Calculator
-https://c33jay.github.io/Calculator/
+https://chijiokeelijah.github.io/Calculator/
